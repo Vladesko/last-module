@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "io8tcvIvsMOIHQqlsBkfBfhFgBv9xqo7Y5ZTYasutkWY1hKMY3TydZ4hzPSfcfcdZiMSRz+w/F6OvmSSNyEmxg==",
+  "success": true,
+  "projectFilePath": "D:\\Обучение\\Программирование\\С#\\Skillbox\\ДЗ\\LastModule\\LastModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
